@@ -1,0 +1,6 @@
+hamster.db
+.env
+test.py
+./__pycache__
+./.vscode
+./server
